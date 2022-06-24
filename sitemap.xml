@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://Jeffr-K.github.io/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Jeffr-K.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Jeffr-K.github.io/page/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Jeffr-K.github.io/about/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://Jeffr-K.github.io/categories/</loc>
   </url><url>
-    <loc>https://Jeffr-K.github.io/</loc>
+    <loc>https://Jeffr-K.github.io/categories/cloud/</loc>
+  </url><url>
+    <loc>https://Jeffr-K.github.io/categories/computer-science/</loc>
+  </url><url>
+    <loc>https://Jeffr-K.github.io/links/</loc>
+  </url><url>
+    <loc>https://Jeffr-K.github.io/categories/retrospective/</loc>
+  </url><url>
+    <loc>https://Jeffr-K.github.io/search/</loc>
+  </url><url>
+    <loc>https://Jeffr-K.github.io/categories/system-design/</loc>
   </url><url>
     <loc>https://Jeffr-K.github.io/tags/</loc>
+  </url><url>
+    <loc>https://Jeffr-K.github.io/categories/translation/</loc>
   </url>
 </urlset>
